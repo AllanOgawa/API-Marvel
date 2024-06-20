@@ -42,32 +42,23 @@ The technologies used in the project were:
 1 - Start the Back-end:
 
 ```bash
-cd API-Marvel---NestJs
+cd BackEnd
 npm i
-npm start
+npm run start:dev
 ```
 
 After starting the back-end, the routes will already work. If you want to view the application on the front-end, execute the following code:
 
 ```bash
-cd API-Marvel--FrontEnd
+cd FrontEnd
 npm i
 npm run dev
 ```
-
-## ⚠️ Attention! ⚠️
-
-Some routes are still being implemented on the front-end! ⚙️
 
 ### Made by:
 
 - Allan Ogawa
 - Heitor Brandolin
-
-### Projects repositories
-
-- Back-end: https://github.com/AllanOgawa/API-Marvel---NestJs.git
-- Front-end: https://github.com/devhetor/projeto-marvel-api-frontEnd.git
 
 ### License
 
